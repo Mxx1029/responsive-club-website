@@ -2,7 +2,7 @@
 
 Website of fictional South Village Running Club (Challenge project on codecademy) 
 
-[DEMO](http://github.com)
+[DEMO](https://mxx1029.github.io/responsive-club-website/)
 
 Way of working: I am very new to coding so at the moment I learn better by copying something than also having to make creative decisions. So I tried to built an nearly exact clone of codecademy's example website (can be found [here](https://codecademy-content.s3.amazonaws.com/PRO/independent-practice-projects/responsive-club-site/example-site/index.html)).
 
